@@ -80,7 +80,7 @@ Tech stack:
 
 ## Project Development
 
-Opt Out is an open source project under active development. Currently, machine learning models are being evaluated for their ability to classify sexual harassment text.  If you would like to contribute to the project, please see [Contributing](https://github.com/malteserteresa/opt-out/blob/master/contributing.md) first, and then check out the repos.
+Opt Out is an open source project under active development. Currently, machine learning models are being evaluated for their ability to classify misogynistic text.  If you would like to contribute to the project, please see [Contributing](https://github.com/malteserteresa/opt-out/blob/master/contributing.md) first, and then check out the repos.
 
 ## Funding
 If you would like to fund the project or make a donation, please email [Opt Out](mailto:opt-out-tool@gmail.com).

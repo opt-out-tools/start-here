@@ -8,7 +8,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 
-# Opt Out is a set of tools designed to help female-identifying people engage with healthy online debate. 
+## Opt Out is a set of tools designed to help female-identifying people engage with healthy online debate. 
 
 
 # Our Mission

@@ -1,4 +1,4 @@
-<img align="centre" src="opt_out_logo.png">
+<img align="middle" src="opt_out_logo.png">
 
 # Opt Out 
 

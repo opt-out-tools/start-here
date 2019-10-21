@@ -1,4 +1,4 @@
-<img align="middle" src="opt_out_logo.png">
+<img align="right" src="opt_out_logo.png">
 
 # Opt Out 
 
@@ -8,7 +8,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 
-# Opt Out is a set of tools design to help female-identifying people engage with healthy online debate. 
+# Opt Out is a set of tools designed to help female-identifying people engage with healthy online debate. 
 
 
 # Our Mission
@@ -79,7 +79,7 @@ Tech stack:
 
 ## Project Development
 
-Opt Out is an open source project under active development. Currently, machine learning models are being evaluated for their ability to classify sexual harassment text. If you would like to test the current model (trained on troll data), please see the 'Installation Instructions' below. If you would like to contribute to the project, please see [Contributing](https://github.com/malteserteresa/opt-out/blob/master/contributing.md) first, and then check out the find-out and try-out repos.
+Opt Out is an open source project under active development. Currently, machine learning models are being evaluated for their ability to classify sexual harassment text.  If you would like to contribute to the project, please see [Contributing](https://github.com/malteserteresa/opt-out/blob/master/contributing.md) first, and then check out the repos.
 
 ## Funding
 If you would like to fund the project or make a donation, please email [Opt Out](mailto:opt-out-tool@gmail.com).

@@ -46,6 +46,7 @@ Go to our website [optoutools.com](www.optoutools.com) and click the submit a re
 
 ## Architecture
 ![architecture](opt_out_arch.png)
+
 Above you can see a drawing of our project's architecture. The browser extension and website front-ends share a common back-end called public_api.
 
 ## [Browser Extension](https://github.com/opt-out-tools/opt-out) 

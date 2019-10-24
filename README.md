@@ -1,4 +1,5 @@
-<img align="center" src="opt_out_logo.png">
+<img align="right" src="opt_out_logo.png">
+
 # Opt Out 
 
 
@@ -6,13 +7,22 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-Opt Out is a set of tools design to help female-identifying people engage with healthy online debate. 
+
+## Opt Out is a set of tools designed to help female-identifying people engage with healthy online debate. 
+
+
+# Our Mission
+The General Data Protection Regulation (GDPR) has changed our lives online on social media platforms. We have the right to be forgotten, to see what is being collected about us and to opt-out if we wish. The current abuse that those who identify as women suffer is not avoidable. We see Opt Out as an extension of the GDPR that also protects the human rights of women and those with intersecting identities online. While steps have been made to protect these people online, not enough has been done. This is a global tragedy affecting the well-being, economical potential and political representation of these people. Let's __Opt Out.__
+
+
 
 Our tools include:
 
 - a browser extension that works like adBlocker but removes online misogyny from an individuals Twitter feed instead of adverts
 - a website where an individual can anonymously submit details of their online misogyny. This data will be stored, studied and feed the models that our other tools use
 - activism: TBC
+
+
 
 ![browser extension demo](opt-out-demo.gif)
 
@@ -31,14 +41,12 @@ To use the current prototype:
 Go to our website [optoutools.com](www.optoutools.com) and click the submit a report button to submit details of your experience of online misogyny.
 
 
-# Our Mission
-The General Data Protection Regulation (GDPR) has changed our lives online on social media platforms. We have the right to be forgotten, to see what is being collected about us and to opt-out if we wish. The current abuse that those who identify as women suffer is not avoidable. We see Opt Out as an extension of the GDPR that also protects the human rights of women and those with intersecting identities online. While steps have been made to protect these people online, not enough has been done. This is a global tragedy affecting the well-being, economical potential and political representation of these people. Let's __Opt Out.__
-
 # Our Technologies
 
 
 ## Architecture
 ![architecture](opt_out_arch.png)
+
 Above you can see a drawing of our project's architecture. The browser extension and website front-ends share a common back-end called public_api.
 
 ## [Browser Extension](https://github.com/opt-out-tools/opt-out) 
@@ -72,7 +80,7 @@ Tech stack:
 
 ## Project Development
 
-Opt Out is an open source project under active development. Currently, machine learning models are being evaluated for their ability to classify sexual harassment text. If you would like to test the current model (trained on troll data), please see the 'Installation Instructions' below. If you would like to contribute to the project, please see [Contributing](https://github.com/malteserteresa/opt-out/blob/master/contributing.md) first, and then check out the find-out and try-out repos.
+Opt Out is an open source project under active development. Currently, machine learning models are being evaluated for their ability to classify misogynistic text.  If you would like to contribute to the project, please see [Contributing](https://github.com/malteserteresa/opt-out/blob/master/contributing.md) first, and then check out the repos.
 
 ## Funding
 If you would like to fund the project or make a donation, please email [Opt Out](mailto:opt-out-tool@gmail.com).

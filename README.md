@@ -29,8 +29,10 @@ Our tools include:
 # To Install / Use
 ## Browser Extension
 
+The code for the Firefox extension is hosted in a separate repo: [Opt Out](https://github.com/opt-out-tools/opt-out)
+
 To use the current prototype:
-1. Clone a local copy of the master branch of this repo
+1. Clone a local copy of the master branch of the [extension repo](https://github.com/opt-out-tools/opt-out)
 2. Start Mozilla Firefox (make sure you have the latest installed v69.0 at least)
 3. Set the url to `about:debugging#/runtime/this-firefox` and hit enter
 4. In the `Load Teporary Add-ons` box, open and load `manifest.json` which can be found in the `extensions` folder of this repo you cloned locally
@@ -38,7 +40,7 @@ To use the current prototype:
 6. If you make changes to the code you would like to test, make sure you click "reload" (left of the "remove" button) to apply new changes to script 
 
 ## Website
-Go to our website [optoutools.com](www.optoutools.com) and click the submit a report button to submit details of your experience of online misogyny.
+Go to our website [optoutools.com](https://www.optoutools.com) and click the submit a report button to submit details of your experience of online misogyny.
 
 
 # Our Technologies

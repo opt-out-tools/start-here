@@ -4,7 +4,9 @@
 <h1 align="center"> Opt Out Tools </h1>
 <h2 align="center"> We are building tools to help female-identifying people engage with healthy online discussion </h2>
 
-<p align="center"> <img src="built-with-love.png"> </p>
+
+![browser extension demo](opt-out-demo.gif)
+
 
 
 Skip to the bit you want to know about:
@@ -31,7 +33,7 @@ We currently have five tools we're working on. Here's a brief description of eac
 Our browser extension is designed to remove misogyny from an individuals social media feed, automatically alerting the moderators of the platform to the detected abuse. However we are consent not censorship focused. We’re designing our browser extension to have a local instance of the model that you can supply feedback to. By giving the individual control over what they do and don’t see whilst upholding their safety, we hope to show female-identifying people that their voices can be heard online without the traumatizing consequences.
 
 ### Our Website 
-our website aims to support female-identifying getting their voices back and sustain the movement. Inspired by HarassMap, an Egyptian based NGO that allows people to submit reports of physical  harassment which are displayed online on a map, our website will allow an individual to anonymously submit details of their harassment. This data will be stored, studied and feed the models that our other tools use, for example the browser extension. Our website will transparently share details of the statistics of the tools and show female-identifyng clearly how their participation by submitting their reports is helping to fuel the movement and show our “KPIs”. Our long-term goal, is to display a “virtual” harass map on our website, showing which communities on your selected social media platform are misogynstic or sexually aggressive or just downright abusive, enabling female-identifying to navigate the murky waters of online society as best they can. 
+Our website aims to support female-identifying getting their voices back and sustain the movement. Inspired by [HarassMap](https://harassmap.org/ar), an Egyptian based NGO that allows people to submit reports of physical  harassment which are displayed online on a map, our website will allow an individual to anonymously submit details of their harassment. This data will be stored, studied and feed the models that our other tools use, for example the browser extension. Our website will transparently share details of the statistics of the tools and show female-identifyng clearly how their participation by submitting their reports is helping to fuel the movement and show our “KPIs”. Our long-term goal, is to display a “virtual” harass map on our website, showing which communities on your selected social media platform are misogynstic or sexually aggressive or just downright abusive, enabling female-identifying to navigate the murky waters of online society as best they can. 
 
 ### Our Activism
 We’re holding workshops that give female-identifying people a chance to meet and share their experiences online. By doing this we not only give much needed support to these people but allow them to come together and in doing so, act in a form of protest. By helping to form this community, it helps us identify needed technical infrastructure and ensures that our tools are fit for purpose enabling our tech to be as community-driven as possible.
@@ -126,7 +128,6 @@ Redesign online spaces for a healthier online community.
 # Use Our Tools
 ## Browser Extension
 
-![browser extension demo](opt-out-demo.gif)
 
 The code for the Firefox extension is hosted in a separate repo: [Opt Out](https://github.com/opt-out-tools/opt-out)
 
@@ -201,3 +202,4 @@ If you share our vision, we ask you to join us. Whether it’s by talking about 
   
 <h3 align="center"> Let’s Opt Out</h3>
 
+<p align="center"> <img src="built-with-love.png"> </p>

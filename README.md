@@ -1,8 +1,8 @@
 <p align="center"> <img width="150" height="150" src="opt_out_logo.png"> </p>
 
-<p align="center"> Opt Out Tools </p>
-<p align="center"> We are building a set of tools designed to help female-identifying people engage with healthy online discussion. 
- </p>
+<h1 align="center"> Opt Out Tools </h1>
+<h2 align="center"> We are building a set of tools designed to help female-identifying people engage with healthy online discussion. 
+ </h2>
 
 
 # Our Mission

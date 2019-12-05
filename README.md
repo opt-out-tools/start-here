@@ -160,11 +160,22 @@ Go to our website [optoutools.com](https://www.optoutools.com) and click the sub
 
 
 ## Architecture
-![architecture](opt_out_arch.png)
+![architecture](opt_out_architecture.png)
 
-Above you can see a drawing of our project's architecture. The browser extension and website front-ends share a common back-end called public_api.
+Above you can see a drawing of the architecture for both the browser extension and the website.
 
-## [Browser Extension](https://github.com/opt-out-tools/opt-out) 
+```
+A key:
+- square boxes are different repositories
+- purple labels are the repository where the code for the component lives 
+- blue is not implemented yet
+- arrows indicate information exchange and flow
+```
+It is important to note that we do not currently have an automated model deployment mechanism.
+
+The browser extension and website front-ends share a common back-end called public_api.
+
+## [Browser Extension Front-end](https://github.com/opt-out-tools/opt-out) 
 The browser extension removes online misogyny from and individual's Twitter feed, automatically reporting the detected content to the moderators of the platform. Our goal is to have a local implementaiton of the model that the user can supply feedback to and use transfer learning to retrain their model to fit their online interactions.
 
 Tech stack:
@@ -179,13 +190,13 @@ Tech stack:
 - Angular 8.0
 
 
-## [Back-end](https://github.com/opt-out-tools/public_api)
+## [The Back-end](https://github.com/opt-out-tools/public_api)
 This has two API's for the website and the browser extension.
 Tech stack:
 - Python
 - Django
 
-## [Data Science](https://github.com/opt-out-tools/study-online-misogyny)
+## [Modeling](https://github.com/opt-out-tools/study-online-misogyny)
 We study online misogyny here. You can find our current work and our future plans here.
 
 Tech stack:

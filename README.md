@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="built-with-love.png"> </p>
 
-[BE](#Browser Extension)
+[BE](#Browser-Extension)
 
 
 # Our Mission

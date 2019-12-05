@@ -4,26 +4,24 @@
 <h1 align="center"> Opt Out Tools </h1>
 <h2 align="center"> We are building tools to help female-identifying people engage with healthy online discussion </h2>
 
-
-![browser extension demo](opt-out-demo.gif)
-
+<p align="center"> <img src="opt-out-demo.gif"> </p>
 
 
-Skip to the bit you want to know about:
+Skip to the bit you want to know about
 
 - [Our Tools and Our Vision](#Our-Tools-and-Our-Vision)
 - [Our Organisation](#Our-Organisation)
 - [Use Our Tools](#Use-Our-Tools)
 - [Develop Our Tools](#Develop-Our-Tools)
-- [Help us on Our Mission](#Help-Our-Mission)
 - [Our Code of Conduct](#Code-of-Conduct)
+- [Help us on With Our Vision](#Help-Our-Vision)
 - [Our Mission](#Our-Mission)
 
 # Our Tools and Our Vision
 
-We currently have five tools we're working on. Here's a brief description of each tool:
+We currently have five tools we're working on to combat online misogyny. Here's a brief description of each tool:
 
-- **Our browser extension**: works like adBlocker, but removes misogyny instead of adverts
+- **Browser Extension**: works like adBlocker, but removes misogyny instead of adverts
 - **Website**: allows an individual to not only support and inform themselves, but submit a report of online misogyny
 - **Activism**: saying boo to the misogyny gooses 
 - **Research**: understanding online misogyny and the problem domain
@@ -41,14 +39,15 @@ We’re holding workshops that give female-identifying people a chance to meet a
 We’re also developing new our “antidote to silicon valley” KPIs: KPIs that try to measure diversity, inclusivity and health of online conversation. Current metrics of participation such as no. of shares no. of clicks etc. have ensured that the social media tech giants live in the pockets of most people on the planet. But these simple metrics of participation don’t tell the full story. We want to do it differently.
 
 ### Our Research
-[theory-of-online-misogyny](https://github.com/opt-out-tools/study-online-misogyny) is where our non-code research is taking place, transparently, to inform the technical decisions we're making.
+Our tech is here to solve real-world problems. It's vital to us that we compile and understand the latest research around online misogyny. Whilst Opt Out's is long-term goal to be able to protect to all female-identifying people, we are committed to supporting those who face the most misogyny online. We have found through reviewing academic studies and existing polls that typically, there are a few factors which determine how much abuse a female-identifying people will be subject to online. Firstly, the more publicly visible and outspoken a female-identifying people is, the more likely it is that she will receive online misogyny. We see politicians, academics, journalists (particularly those who write about stereotypically masculine areas like sports and gaming), activists and human rights defenders all receiving gendered abuse online. Many female politicians across Europe are forced to contend with misogyny on a regular basis, sometimes resulting in these politicians stepping down from their positions. If a female-identifying people also happens to be black, trans, obese, any intersecting identity that is already discrimintaed against, the intensity and amount of abuse increases. We will focus on protecting these voices that disproportionately suffer from online misogyny.
+ 
+Our research informs our tech, not the other way around.
 
 ### Our Modeling
-Watered down idea of what misogyny is.
+Language is incredibly nuanced. Our strategy to build a browser extension that works from the word go is to focus on a particular group of female-identifying people harassed online to protect first and build our model to have an improved range of protection as and when we can.
 
-Our repository [study-online-misogyny](https://github.com/opt-out-tools/study-online-misogyny) is where our cutting-edge technical study into online misogyny is taking place.
-
-## Now
+Currently we are focussing on Natural Language Processing to understand the sentiment of a Tweet, but we will eventually include network analysis and computational linguistics, so we understand not just the content but context and the conversation of the comment that is being analysed.
+## Where we are Now
 
 A high-level overview of how each of the tools are working.
 
@@ -78,7 +77,7 @@ Roadmap
 - Relabel for explicit misogyny & for specific group of targets of online misogyny
 - Tech: Deep architectures
 
-## Short-term
+## Our Short-Term Vision
 
 ### Browser Extension
 The browser extension model needs to be improved. For that we need to know what it's labeling wrong. We are going to find a select number of users and release it to them with specific functionality, a Opt In and Opt Out buttons. These buttons will send the tweets to our servers and store the incorrectly labelled comments.
@@ -99,7 +98,7 @@ Plan and action a kick-ass social media campaign!
 - Computational linguistics
 - Multi - class labeling
 
-## Long-term
+## Our Long-Term Vision
 
 ### Browser Extension
 - Automatic reporting
@@ -123,6 +122,10 @@ Redesign online spaces for a healthier online community.
 
 
 # Our Organisation
+
+## Teams and Focus
+
+## Repositories and their Roles
 
 
 # Use Our Tools
@@ -179,19 +182,17 @@ Tech stack:
 - Python/R
 - Data science (text analytics, network analysis.. etc.)
 
+# Code of Conduct
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/malteserteresa/opt-out/blob/master/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-# Help Our Mission
+# Help Our Vision
 
+## Contributing
 Opt Out is an open source project under active development. Currently, machine learning models are being evaluated for their ability to classify misogynistic text.  If you would like to contribute to the project, please see [Contributing](https://github.com/malteserteresa/opt-out/blob/master/contributing.md) first, and then check out the repos.
 
-If you would like to fund the project or make a donation, please email [Opt Out](mailto:opt-out-tool@gmail.com).
+## Funding
+If you would like to fund the project or make a donation, please email [Opt Out](mailto:opt-out-tool@gmail.com) or hit the sponsor button above, which will take you to our [Open Collective](https://opencollective.com/) page.
 
-***
-
-> Please note that this project is released with a [Contributor Code of Conduct](https://github.com/malteserteresa/opt-out/blob/master/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
-
-
-# Code of Conduct
 
 # Our Mission
 We’re a mixed team , including social sciences, UX and lots of data nerds. We’re all working voluntarily in our spare time to make the internet accessible for all. What’s most important about us that we’re a group of people that **wont let hate win**.

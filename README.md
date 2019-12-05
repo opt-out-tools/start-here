@@ -1,4 +1,4 @@
-<p align="center"> <img width="150" height="150" src="opt_out_logo.png"> </p>
+<p align="center"> <img width="250" height="250" src="opt_out_logo.png"> </p>
 
 <p></p>
 <h1 align="center"> Opt Out Tools </h1>
@@ -39,21 +39,23 @@ We’re holding workshops that give female-identifying people a chance to meet a
 We’re also developing new our “antidote to silicon valley” KPIs: KPIs that try to measure diversity, inclusivity and health of online conversation. Current metrics of participation such as no. of shares no. of clicks etc. have ensured that the social media tech giants live in the pockets of most people on the planet. But these simple metrics of participation don’t tell the full story. We want to do it differently.
 
 ### Our Research
-Our tech is here to solve real-world problems. It's vital to us that we compile and understand the latest research around online misogyny. Whilst Opt Out's is long-term goal to be able to protect to all female-identifying people, we are committed to supporting those who face the most misogyny online. We have found through reviewing academic studies and existing polls that typically, there are a few factors which determine how much abuse a female-identifying people will be subject to online. Firstly, the more publicly visible and outspoken a female-identifying people is, the more likely it is that she will receive online misogyny. We see politicians, academics, journalists (particularly those who write about stereotypically masculine areas like sports and gaming), activists and human rights defenders all receiving gendered abuse online. Many female politicians across Europe are forced to contend with misogyny on a regular basis, sometimes resulting in these politicians stepping down from their positions. If a female-identifying people also happens to be black, trans, obese, any intersecting identity that is already discrimintaed against, the intensity and amount of abuse increases. We will focus on protecting these voices that disproportionately suffer from online misogyny.
+Our tech is here to solve real-world problems. It's vital to us that we compile and understand the latest research around online misogyny to inform our technical decisions. 
+
+Whilst Opt Out's is long-term goal to be able to protect to all female-identifying people one day, we are committed to supporting those who face the most misogyny online. We have found through reviewing academic studies and existing polls that typically, there are a few factors which determine how much abuse a female-identifying people will be subject to online. Firstly, the more publicly visible and outspoken a female-identifying people is, the more likely it is that she will receive online misogyny. We see politicians, academics, journalists (particularly those who write about stereotypically masculine areas like sports and gaming), activists and human rights defenders all receiving gendered abuse online. Many female politicians across Europe are forced to contend with misogyny on a regular basis, sometimes resulting in these politicians stepping down from their positions. If a female-identifying people also happens to be black, trans, obese, any intersecting identity that is already discriminated against, the intensity and amount of abuse increases. We will focus on protecting these voices that disproportionately suffer from online misogyny first and increase inclusivity as we understand modeling better.
  
-Our research informs our tech, not the other way around.
-
 ### Our Modeling
-Language is incredibly nuanced. Our strategy to build a browser extension that works from the word go is to focus on a particular group of female-identifying people harassed online to protect first and build our model to have an improved range of protection as and when we can.
+Language is incredibly nuanced. Our strategy to build a browser extension that works from the word go is to focus on a particular group of female-identifying people harassed online to protect first and build our model to have an improved range of protection when we can.
 
-Currently we are focussing on Natural Language Processing to understand the sentiment of a Tweet, but we will eventually include network analysis and computational linguistics, so we understand not just the content but context and the conversation of the comment that is being analysed.
-## Where we are Now
+Currently we are focusing on Twitter and using Natural Language Processing to understand the sentiment of a tweet, but we will eventually include network analysis and computational linguistics, so we understand not just the content but context and the conversation of the tweet that is being analysed.
+
+One day, we'll be multi-lingual and multi-platform.
+
+## Where we are now
 
 A high-level overview of how each of the tools are working.
 
 ### Browser Extension
-We have built a misogyny dataset and built have a binary classifier misogyny model, that is sat on some servers somewhere. As the page loads the tweets (we're focussing on Twitter initially) are sent to the backend, the model is hit and returns a score. If the score indicates it’s misogynistic the text is blocked out, if not it’s left on the page. If there is an image attached to the comment that is also blocked. Simples for now.
-
+We have curated a misogyny dataset and built have a binary classifier misogyny model which fuels the basic implementation of the browser extension. The browser extension is only available to use via github.
 
 ### Website
 Our website is up and can be found at [optoutools.com](https://www.optoutools.com) but it is lacking content, design and GDPR help. Due to this, the report functionality is currently not working. If you can contribute any of these we'd be eternally grateful.
@@ -70,12 +72,12 @@ Our workshops include:
 If you'd like to know more about these, please each out at @OptOutSocial
 
 ### Research
-Roadmap
+We've done patchy but thorough research up until now. It's time to decide on a research roadmap. This roadmap is expected to include researching different definitions of misogyny at different levels, sociolinguistic study of misogyny and more.
 
 ### Modeling
-- Error analysis of current model
-- Relabel for explicit misogyny & for specific group of targets of online misogyny
-- Tech: Deep architectures
+We have a misogyny dataset and model, but we need to know how it's doing. We're currently in the process of writing error analysis scripts to do just that. We're also looking at more complex modeling deep learning architectures.
+
+We shall also relabel two new datasets, one with a focus on labeling explicit misogyny and the other only labeling misogyny received by a specific group online.
 
 ## Our Short-Term Vision
 
@@ -85,7 +87,7 @@ The browser extension model needs to be improved. For that we need to know what 
 Alongside getting our minimum viable product gently out into the wild, we will work on fixing some bugs, modeling online misogyny and UX design.
 
 ### Website
-Work will be mostly focussing on content, SEO and UX/UI design, trying to make our website as accessible, feminist and appealing as possible.
+Work will be mostly focusing on content, SEO and UX/UI design, trying to make our website as accessible, feminist and appealing as possible.
 
 ### Activism
 Plan and action a kick-ass social media campaign!
@@ -124,13 +126,21 @@ Redesign online spaces for a healthier online community.
 # Our Organisation
 
 ## Teams and Focus
+The only thing better than being able to work on a project that really means something, is being able to work on it with a community of great people.
+
+We have experts from across the world working with a variety of skills from UX to network analysis. More transparency to come.
 
 ## Repositories and their Roles
+An overview of the repositories we have an what they are there for
 
+- [opt-out](https://github.com/opt-out-tools/opt-out): the front-end for the browser extension
+- [website](https://github.com/opt-out-tools/website): the front-end for the website
+- [public_ap](https://github.com/opt-out-tools/public_api): the joint back-end for the website and browser extension
+- [theory-of-online-misogyny](https://github.com/opt-out-tools/theory-of-online-misogyny): qualitative research into online misogyny
+- [study-online-misogyny](https://github.com/opt-out-tools/study-online-misogyny): quantitative research into online misogyny
 
 # Use Our Tools
 ## Browser Extension
-
 
 The code for the Firefox extension is hosted in a separate repo: [Opt Out](https://github.com/opt-out-tools/opt-out)
 
@@ -184,6 +194,9 @@ Tech stack:
 
 # Code of Conduct
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/malteserteresa/opt-out/blob/master/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+## Disclaimer
+Our intention is to **never ever** re-victimize anyone. However we deal with explicit content and sometimes we forget to sanitize a work or add a disclaimer that it may content explicit content. If this happens, please let us know and we'll rectify the matter immediately. 
 
 # Help Our Vision
 

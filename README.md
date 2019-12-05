@@ -2,7 +2,9 @@
 # **Opt Out Tools** 
 ## We are building tools to help female-identifying people engage with healthy online discussion. 
 
-![browser extension demo](opt_out_logo.png | width=100)
+<p align="center">
+  <img width="46" height="30" src="opt_out_logo.png">
+</p>
 
 
 

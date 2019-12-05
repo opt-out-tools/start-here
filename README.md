@@ -3,7 +3,7 @@
 ## We are building tools to help female-identifying people engage with healthy online discussion. 
 
 <p align="center">
-  <img width="46" height="30" src="opt_out_logo.png">
+  <img width="150" height="150" src="opt_out_logo.png">
 </p>
 
 

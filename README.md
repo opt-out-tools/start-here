@@ -2,10 +2,10 @@
 
 <p></p>
 <h1 align="center"> Opt Out Tools </h1>
-<h2 align="center"> We are building a set of tools designed to help female-identifying people engage with healthy online discussion. 
+<h2 align="center"> We are building tools designed to help female-identifying people engage with healthy online discussion. 
  </h2>
 
-<p align="center"> <img width="150" height="150" src="built-with-love.png"> </p>
+<p align="center"> <img src="built-with-love.png"> </p>
 
 
 # Our Mission

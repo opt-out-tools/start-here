@@ -1,14 +1,10 @@
-<img align="right" src="opt_out_logo.png">
+<p align="center"> <img width="150" height="150" src="opt_out_logo.png"> </p>
 
-# Opt Out 
+<p align="center"> Opt Out Tools </p>
+<p align="center"> We are building a set of tools designed to help female-identifying people engage with healthy online discussion. 
+ </p>
 
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)  
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-
-
-## Opt Out is a set of tools designed to help female-identifying people engage with healthy online debate. 
+<p align="center"> <img width="150" height="150" src="built-with-love.png"> </p>
 
 
 # Our Mission
@@ -22,6 +18,7 @@ Our tools include:
 - a website where an individual can anonymously submit details of their online misogyny. This data will be stored, studied and feed the models that our other tools use
 - activism: TBC
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 
 ![browser extension demo](opt-out-demo.gif)

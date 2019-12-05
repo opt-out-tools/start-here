@@ -19,11 +19,13 @@ Skip to the bit you want to know about:
 
 # Our Tools and Our Vision
 
-We currently have three tools we're working on. Here's a brief description of each tool:
+We currently have five tools we're working on. Here's a brief description of each tool:
 
 - Our browser extension: works like adBlocker, but removes misogyny instead of adverts
 - Website: allows an individual to not only support and inform themselves, but submit a report of online misogyny
 - Activism: saying boo to the misogyny gooses 
+- Research: understanding online misogyny and the problem domain
+- Modeling: modeling online misogyny
 
 ### Our Browser Extension
 Our browser extension is designed to remove misogyny from an individuals social media feed, automatically alerting the moderators of the platform to the detected abuse. However we are consent not censorship focused. We’re designing our browser extension to have a local instance of the model that you can supply feedback to. By giving the individual control over what they do and don’t see whilst upholding their safety, we hope to show female-identifying people that their voices can be heard online without the traumatizing consequences.
@@ -36,7 +38,13 @@ We’re holding workshops that give female-identifying people a chance to meet a
 
 We’re also developing new our “antidote to silicon valley” KPIs: KPIs that try to measure diversity, inclusivity and health of online conversation. Current metrics of participation such as no. of shares no. of clicks etc. have ensured that the social media tech giants live in the pockets of most people on the planet. But these simple metrics of participation don’t tell the full story. We want to do it differently.
 
+### Our Research
+[theory-of-online-misogyny](https://github.com/opt-out-tools/study-online-misogyny) is where our non-code work is taking place, transparently, to inform the technical decisions we're making.
 
+### Our Modeling
+Watered down idea of what misogyny is.
+
+Our repository [study-online-misogyny](https://github.com/opt-out-tools/study-online-misogyny) is where our cutting-edge technical study into online misogyny is taking place.
 
 ## Now
 
@@ -44,7 +52,8 @@ A high-level overview of how each of the tools are working.
 
 ### Browser Extension
 We have built a misogyny dataset and built have a binary classifier misogyny model, that is sat on some servers somewhere. As the page loads the tweets (we're focussing on Twitter initially) are sent to the backend, the model is hit and returns a score. If the score indicates it’s misogynistic the text is blocked out, if not it’s left on the page. If there is an image attached to the comment that is also blocked. Simples for now.
- 
+
+
 ### Website
 Our website is up and can be found at [optoutools.com](https://www.optoutools.com) but it is lacking content, design and GDPR help. Due to this, the report functionality is currently not working. If you can contribute any of these we'd be eternally grateful.
 
@@ -59,6 +68,14 @@ Our workshops include:
 
 If you'd like to know more about these, please each out at @OptOutSocial
 
+### Research
+Roadmap
+
+### Modeling
+- Error analysis of current model
+- Relabel for explicit misogyny & for specific group of targets of online misogyny
+- Tech: Deep architectures
+
 ## Short-term
 
 ### Browser Extension
@@ -72,17 +89,35 @@ Work will be mostly focussing on content, SEO and UX/UI design, trying to make o
 ### Activism
 Plan and action a kick-ass social media campaign!
 
+### Research
+- Portfolios of misogyny
+
+### Modeling
+- Network analysis
+- Computational linguistics
+- Multi - class labeling
+
 ## Long-term
 
 ### Browser Extension
+- Automatic reporting
+- local instance
+
 ### Website
+- Virtual harassmap
+
 ### Activism
+- Hacktivism
+- Gamify activism
+
+### Research
+
+### Modeling
+- Mix models
 
 
-A healthier online world.
 
-
-![browser extension demo](opt-out-demo.gif)
+Redesign online spaces for a healthier online community.
 
 
 # Our Organisation
@@ -90,6 +125,8 @@ A healthier online world.
 
 # Use Our Tools
 ## Browser Extension
+
+![browser extension demo](opt-out-demo.gif)
 
 The code for the Firefox extension is hosted in a separate repo: [Opt Out](https://github.com/opt-out-tools/opt-out)
 

@@ -1,13 +1,9 @@
 
-# Opt Out 
+# **Opt Out Tools** 
 ## We are building a tools to help female-identifying people engage with healthy online discussion. 
 
 ![browser extension demo](opt_out_logo.png)
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-
-
-## Opt Out is a set of tools designed to help female-identifying people engage with healthy online debate. 
 
 
 # Our Mission
@@ -21,6 +17,7 @@ Our tools include:
 - a website where an individual can anonymously submit details of their online misogyny. This data will be stored, studied and feed the models that our other tools use
 - activism: TBC
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 
 ![browser extension demo](opt-out-demo.gif)

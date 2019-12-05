@@ -215,15 +215,15 @@ Our intention is to **never ever** re-victimize anyone. However we deal with exp
 Opt Out is an open source project under active development. Currently, machine learning models are being evaluated for their ability to classify misogynistic text.  If you would like to contribute to the project, please see [Contributing](https://github.com/malteserteresa/opt-out/blob/master/contributing.md) first, and then check out the repos.
 
 ## Funding
-If you would like to fund the project or make a donation, please email [Opt Out](mailto:opt-out-tool@gmail.com) or hit the sponsor button above, which will take you to our [Open Collective](https://opencollective.com/) page.
+If you would like to fund the project or make a donation, please email [Opt Out](mailto:opt-out-tool@gmail.com) or hit the sponsor button above, which will take you to our [Open Collective](https://opencollective.com/opt-out) page.
 
 
 # Our Mission
 We’re a mixed team , including social sciences, UX and lots of data nerds. We’re all working voluntarily in our spare time to make the internet accessible for all. What’s most important about us that we’re a group of people that **wont let hate win**.
 
-We want to champion women back into the online worlds they’ve been chased out of, support them and their voices whilst still protecting them and holding the perpetrators accountable. **We need to exist**.
+We want to champion female-identifying people back into the online worlds they’ve been chased out of, support them and their voices whilst still protecting them and holding the perpetrators accountable. **We need to exist**.
 
-If you share our vision, we ask you to join us. Whether it’s by talking about this to a friend, contributing, research, expertise, skills, strategy code. Online misogyny is real and it's silencing the voices that society so desperately needs to hear.
+If you share our vision, we ask you to **join us**. Whether it’s by talking about this to a friend, contributing, research, expertise, skills, strategy or code. Online misogyny is real and it's silencing the voices that society so desperately needs to hear.
   
 <h3 align="center"> Let’s Opt Out</h3>
 

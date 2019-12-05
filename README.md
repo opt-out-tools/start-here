@@ -21,11 +21,11 @@ Skip to the bit you want to know about:
 
 We currently have five tools we're working on. Here's a brief description of each tool:
 
-- Our browser extension: works like adBlocker, but removes misogyny instead of adverts
-- Website: allows an individual to not only support and inform themselves, but submit a report of online misogyny
-- Activism: saying boo to the misogyny gooses 
-- Research: understanding online misogyny and the problem domain
-- Modeling: modeling online misogyny
+- **Our browser extension**: works like adBlocker, but removes misogyny instead of adverts
+- **Website**: allows an individual to not only support and inform themselves, but submit a report of online misogyny
+- **Activism**: saying boo to the misogyny gooses 
+- **Research**: understanding online misogyny and the problem domain
+- **Modeling**: modeling online misogyny
 
 ### Our Browser Extension
 Our browser extension is designed to remove misogyny from an individuals social media feed, automatically alerting the moderators of the platform to the detected abuse. However we are consent not censorship focused. We’re designing our browser extension to have a local instance of the model that you can supply feedback to. By giving the individual control over what they do and don’t see whilst upholding their safety, we hope to show female-identifying people that their voices can be heard online without the traumatizing consequences.
@@ -39,7 +39,7 @@ We’re holding workshops that give female-identifying people a chance to meet a
 We’re also developing new our “antidote to silicon valley” KPIs: KPIs that try to measure diversity, inclusivity and health of online conversation. Current metrics of participation such as no. of shares no. of clicks etc. have ensured that the social media tech giants live in the pockets of most people on the planet. But these simple metrics of participation don’t tell the full story. We want to do it differently.
 
 ### Our Research
-[theory-of-online-misogyny](https://github.com/opt-out-tools/study-online-misogyny) is where our non-code work is taking place, transparently, to inform the technical decisions we're making.
+[theory-of-online-misogyny](https://github.com/opt-out-tools/study-online-misogyny) is where our non-code research is taking place, transparently, to inform the technical decisions we're making.
 
 ### Our Modeling
 Watered down idea of what misogyny is.

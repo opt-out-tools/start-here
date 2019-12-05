@@ -1,9 +1,8 @@
-<img align="right" src="opt_out_logo.png">
 
 # Opt Out 
+## We are building a tools to help female-identifying people engage with healthy online discussion. 
 
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)  
+![browser extension demo](opt_out_logo.png)
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 

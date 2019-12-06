@@ -122,6 +122,9 @@ Plan and action a kick-ass social media campaign!
 
 Redesign online spaces for a healthier online community.
 
+## Summary 
+
+<p align="center"> <img src="Product_Road_Map_OO.png"> </p>
 
 # Our Organisation
 

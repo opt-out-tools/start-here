@@ -49,7 +49,10 @@ Milestone (version) name and description:
 - 0.3: what features would be good to have in the product/s
 - 0.4 (Future): the future of our product/s
 
-Concrete details of what each milestone contains can be found in the [start-here](https://github.com/opt-out-tools/start-here)
+Concrete details of what each milestone contains can be found in the roadmaps, titled by the name of the tool. To find out what tools we have, please see [Our Tools and Our Vision](https://github.com/opt-out-tools/start-here#Our-Tools-and-Our-Vision) 
+For example, to find out at a high-level what we want to achieve in terms of Activism by the 0.1 milestone, see the [Activism Roadmap](https://github.com/orgs/opt-out-tools/projects/37)
+
+An overview can be found of all can be found here [start-here](https://github.com/opt-out-tools/start-here)
 
 Each issue should also belong to a project. You can find a short description of the project in the project tile.
 

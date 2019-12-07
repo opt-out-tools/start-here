@@ -46,11 +46,12 @@ Our tech is here to solve real-world problems. It's vital to us that we compile 
 Whilst Opt Out's is long-term goal to be able to protect to all female-identifying people one day, we are committed to supporting those who face the most misogyny online. We have found through reviewing academic studies and existing polls that typically, there are a few factors which determine how much abuse a female-identifying people will be subject to online. Firstly, the more publicly visible and outspoken a female-identifying people is, the more likely it is that she will receive online misogyny. We see politicians, academics, journalists (particularly those who write about stereotypically masculine areas like sports and gaming), activists and human rights defenders all receiving gendered abuse online. Many female politicians across Europe are forced to contend with misogyny on a regular basis, sometimes resulting in these politicians stepping down from their positions. If a female-identifying people also happens to be black, trans, obese, any intersecting identity that is already discriminated against, the intensity and amount of abuse increases. We will focus on protecting these voices that disproportionately suffer from online misogyny first and increase inclusivity as we understand how we can model misogyny better.
  
 ### Our Modeling
-Language is incredibly nuanced. Our strategy to build a browser extension that works from the word go is to focus on a particular group of female-identifying people harassed online to protect first and build our model to have an improved range of protection when we can.
+Language is incredibly nuanced. Our strategy to build tool that is designed to block misogyny towards a particular group of female-identifying people being harassed online. By initially targeting our protection to a specific group of people, we will ensure that our browser extension is effective from the word go. As we better understand online misogyny and how to model it we will improve our model to have an increased range of groups of people whom our tool is of use to.
 
-Currently we are focusing on Twitter and using Natural Language Processing to understand the sentiment of a tweet, but we will eventually include network analysis and computational linguistics, so we understand not just the content but context and the conversation of the tweet that is being analysed.
+Currently we are focusing on Twitter and using Natural Language Processing to understand the sentiment of a tweet. However this is a very simple model of how language works. Language has content, context, conversation and meaning embedded in the words. To capture this and make our machine learning models as precise as possible, we will eventually include network analysis, computational linguistics and other techniques, so that we are as sure as we can be that the comment is misogynistic.
 
-One day, we'll be multi-lingual and multi-platform.
+Also it is important to state here our commitement to understanding the biases and implications of the modeling that we are doing. We will also be looking into fairness metrics, dialect identification and model bias, to understand and communicate the limitations of our work.
+
 
 ## Where we are now
 
@@ -156,7 +157,7 @@ Go to our website [optoutools.com](https://www.optoutools.com) and click the sub
 
 ## Study Online Misogyny
 
-## Activisim 
+## Activism 
 
 ## Research
 

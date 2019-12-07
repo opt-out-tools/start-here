@@ -125,6 +125,9 @@ Plan and action a kick-ass social media campaign!
 
 Redesign online spaces for a healthier online community.
 
+<p align="center"> *** </p>
+
+
 ## Tools Roadmap 
 
 <p align="center"> <img src="opt_out_product_roadmap"> </p>

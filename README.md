@@ -10,9 +10,11 @@
 Skip to the bit you want to know about
 
 - [Our Tools and Our Vision](#Our-Tools-and-Our-Vision)
-- [Our Organisation](#Our-Organisation)
+- [Tools Roadmap](#Tools-Roadmap)
+- [The Repos and their Roles](#The-Repos-and-their-Roles)
 - [Use Our Tools](#Use-Our-Tools)
 - [Develop Our Tools](#Develop-Our-Tools)
+- [Our Organisation](#Our-Organisation)
 - [Our Code of Conduct](#Code-of-Conduct)
 - [Help us on With Our Vision](#Help-Our-Vision)
 - [Our Mission](#Our-Mission)
@@ -31,17 +33,17 @@ We currently have five tools we're working on to combat online misogyny. Here's 
 Our browser extension is designed to remove misogyny from an individuals social media feed, automatically alerting the moderators of the platform to the detected abuse. However we are consent not censorship focused. We’re designing our browser extension to have a local instance of the model that you can supply feedback to. By giving the individual control over what they do and don’t see whilst upholding their safety, we hope to show female-identifying people that their voices can be heard online without the traumatizing consequences.
 
 ### Our Website 
-Our website aims to support female-identifying getting their voices back and sustain the movement. Inspired by [HarassMap](https://harassmap.org/ar), an Egyptian based NGO that allows people to submit reports of physical  harassment which are displayed online on a map, our website will allow an individual to anonymously submit details of their harassment. This data will be stored, studied and feed the models that our other tools use, for example the browser extension. Our website will transparently share details of the statistics of the tools and show female-identifyng clearly how their participation by submitting their reports is helping to fuel the movement and show our “KPIs”. Our long-term goal, is to display a “virtual” harass map on our website, showing which communities on your selected social media platform are misogynstic or sexually aggressive or just downright abusive, enabling female-identifying to navigate the murky waters of online society as best they can. 
+Our website aims to support female-identifying getting their voices back and sustain the movement. Inspired by [HarassMap](https://harassmap.org/ar), an Egyptian based NGO that allows people to submit reports of physical harassment which are displayed online on a map, our website will allow an individual to anonymously submit details of their harassment. This data will be stored, studied and feed the models that our other tools use, for example the browser extension. Our website will transparently show details of the usage statistics of the tools and show female-identifying clearly how their participation by submitting their reports is helping to fuel the movement and show our "antidote to silicon valley KPIs”. Our long-term goal is to display a “virtual” harass map on our website, showing which communities on your selected social media platform are misogynstic or sexually aggressive or just downright abusive, enabling female-identifying to navigate the murky waters of online society as best they can. 
 
 ### Our Activism
 We’re holding workshops that give female-identifying people a chance to meet and share their experiences online. By doing this we not only give much needed support to these people but allow them to come together and in doing so, act in a form of protest. By helping to form this community, it helps us identify needed technical infrastructure and ensures that our tools are fit for purpose enabling our tech to be as community-driven as possible.
 
-We’re also developing new our “antidote to silicon valley” KPIs: KPIs that try to measure diversity, inclusivity and health of online conversation. Current metrics of participation such as no. of shares no. of clicks etc. have ensured that the social media tech giants live in the pockets of most people on the planet. But these simple metrics of participation don’t tell the full story. We want to do it differently.
+We’re also holding workshops and hackathons to develop our “antidote to silicon valley” KPIs: KPIs that try to measure diversity, inclusivity and health of online conversation. Current metrics of participation such as no. of shares no. of clicks etc. have ensured that the social media tech giants live in the pockets of most people on the planet. But these simple metrics of participation don’t tell the full story. We want to do it differently.
 
 ### Our Research
 Our tech is here to solve real-world problems. It's vital to us that we compile and understand the latest research around online misogyny to inform our technical decisions. 
 
-Whilst Opt Out's is long-term goal to be able to protect to all female-identifying people one day, we are committed to supporting those who face the most misogyny online. We have found through reviewing academic studies and existing polls that typically, there are a few factors which determine how much abuse a female-identifying people will be subject to online. Firstly, the more publicly visible and outspoken a female-identifying people is, the more likely it is that she will receive online misogyny. We see politicians, academics, journalists (particularly those who write about stereotypically masculine areas like sports and gaming), activists and human rights defenders all receiving gendered abuse online. Many female politicians across Europe are forced to contend with misogyny on a regular basis, sometimes resulting in these politicians stepping down from their positions. If a female-identifying people also happens to be black, trans, obese, any intersecting identity that is already discriminated against, the intensity and amount of abuse increases. We will focus on protecting these voices that disproportionately suffer from online misogyny first and increase inclusivity as we understand modeling better.
+Whilst Opt Out's is long-term goal to be able to protect to all female-identifying people one day, we are committed to supporting those who face the most misogyny online. We have found through reviewing academic studies and existing polls that typically, there are a few factors which determine how much abuse a female-identifying people will be subject to online. Firstly, the more publicly visible and outspoken a female-identifying people is, the more likely it is that she will receive online misogyny. We see politicians, academics, journalists (particularly those who write about stereotypically masculine areas like sports and gaming), activists and human rights defenders all receiving gendered abuse online. Many female politicians across Europe are forced to contend with misogyny on a regular basis, sometimes resulting in these politicians stepping down from their positions. If a female-identifying people also happens to be black, trans, obese, any intersecting identity that is already discriminated against, the intensity and amount of abuse increases. We will focus on protecting these voices that disproportionately suffer from online misogyny first and increase inclusivity as we understand how we can model misogyny better.
  
 ### Our Modeling
 Language is incredibly nuanced. Our strategy to build a browser extension that works from the word go is to focus on a particular group of female-identifying people harassed online to protect first and build our model to have an improved range of protection when we can.
@@ -122,18 +124,12 @@ Plan and action a kick-ass social media campaign!
 
 Redesign online spaces for a healthier online community.
 
-## Summary 
+## Tools Roadmap 
 
-<p align="center"> <img src="Product_Road_Map_OO.png"> </p>
+<p align="center"> <img src="opt_out_product_roadmap"> </p>
 
-# Our Organisation
 
-## Teams and Focus
-The only thing better than being able to work on a project that really means something, is being able to work on it with a community of great people.
-
-We have experts from across the world working with a variety of skills from UX to network analysis. More transparency to come.
-
-## Repositories and their Roles
+# The Repos and their Roles
 An overview of the repositories we have an what they are there for
 
 - [opt-out](https://github.com/opt-out-tools/opt-out): the front-end for the browser extension
@@ -163,7 +159,8 @@ Go to our website [optoutools.com](https://www.optoutools.com) and click the sub
 
 
 ## Architecture
-![architecture](opt_out_architecture.png)
+<p align="center"> <img src="opt_out_architecture.png"> </p>
+
 
 Above you can see a drawing of the architecture for both the browser extension and the website.
 
@@ -177,6 +174,12 @@ A key:
 It is important to note that we do not currently have an automated model deployment mechanism.
 
 The browser extension and website front-ends share a common back-end called public_api.
+
+## Status of Repos
+
+- [opt-out](https://github.com/opt-out-tools/opt-out): [![CircleCI](https://circleci.com/gh/opt-out-tools/opt-out.svg?style=svg)](https://circleci.com/gh/opt-out-tools/opt-out)
+- [study-online-misogyny](https://github.com/opt-out-tools/study-online-misogyny): [![CircleCI](https://circleci.com/gh/opt-out-tools/study-online-misogyny.svg?style=svg)](https://circleci.com/gh/opt-out-tools/study-online-misogyny)
+
 
 ## [Browser Extension Front-end](https://github.com/opt-out-tools/opt-out) 
 The browser extension removes online misogyny from and individual's Twitter feed, automatically reporting the detected content to the moderators of the platform. Our goal is to have a local implementaiton of the model that the user can supply feedback to and use transfer learning to retrain their model to fit their online interactions.
@@ -205,6 +208,14 @@ We study online misogyny here. You can find our current work and our future plan
 Tech stack:
 - Python/R
 - Data science (text analytics, network analysis.. etc.)
+
+# Our Organisation
+
+## Teams and Focus
+The only thing better than being able to work on a project that really means something, is being able to work on it with a community of great people.
+
+We have experts from across the world working with a variety of skills from UX to network analysis. More transparency to come.
+
 
 # Code of Conduct
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/malteserteresa/opt-out/blob/master/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.

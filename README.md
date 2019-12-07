@@ -125,7 +125,7 @@ Our long-term vision is to be a tool that works in multiple online spaces such a
 
 ## Tools Roadmap 
 
-<p align="center"> <img src="opt_out_product_roadmap"> </p>
+<p align="center"> <img src="opt_out_product_roadmap.png"> </p>
 
 <p align="center"> * * * </p>
 

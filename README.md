@@ -16,7 +16,7 @@ Skip to the bit you want to know about
 - [Develop Our Tools](#Develop-Our-Tools)
 - [Our Organisation](#Our-Organisation)
 - [Our Code of Conduct](#Code-of-Conduct)
-- [Help us on With Our Vision](#Help-Our-Vision)
+- [Help us with Our Vision](#Help-Our-Vision)
 - [Our Mission](#Our-Mission)
 
 # Our Tools and Our Vision
@@ -141,9 +141,9 @@ An overview of the repositories we have an what they are there for
 # Use Our Tools
 ## Browser Extension
 
-The code for the Firefox extension is hosted in a separate repo: [Opt Out](https://github.com/opt-out-tools/opt-out)
+Our browser extension works only on Firefox. The code to load the browser extension can be found in [opt-out](https://github.com/opt-out-tools/opt-out).
 
-To use the current prototype:
+To use the current version:
 1. Clone a local copy of the master branch of the [extension repo](https://github.com/opt-out-tools/opt-out)
 2. Start Mozilla Firefox (make sure you have the latest installed v69.0 at least)
 3. Set the url to `about:debugging#/runtime/this-firefox` and hit enter
@@ -154,10 +154,13 @@ To use the current prototype:
 ## Website
 Go to our website [optoutools.com](https://www.optoutools.com) and click the submit a report button to submit details of your experience of online misogyny.
 
+## Study Online Misogyny
+
+## Activisim 
+
+## Research
 
 # Develop Our Tools
-
-
 ## Architecture
 <p align="center"> <img src="opt_out_architecture.png"> </p>
 
@@ -182,7 +185,7 @@ The browser extension and website front-ends share a common back-end called publ
 
 
 ## [Browser Extension Front-end](https://github.com/opt-out-tools/opt-out) 
-The browser extension removes online misogyny from and individual's Twitter feed, automatically reporting the detected content to the moderators of the platform. Our goal is to have a local implementaiton of the model that the user can supply feedback to and use transfer learning to retrain their model to fit their online interactions.
+The browser extension removes online misogyny from an individual's Twitter feed. We have a binary classifier model sat on some servers and as the page loads the tweets are sent to the backend, the model is hit and returns a score. If the score indicates it’s misogynistic the text is blocked out, if not it’s left on the page. If there is an image attached to the comment that is also blocked. 
 
 Tech stack:
 - Javascript

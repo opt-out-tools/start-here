@@ -1,8 +1,9 @@
 <p align="center"> <img width="250" height="250" src="opt_out_logo.png"> </p>
 
-<p></p>
-<h1 align="center"> Opt Out Tools </h1>
-<h2 align="center"> We are building tools to help female-identifying people engage with healthy online discussion </h2>
+<p></p> <h1 align="center"> Opt Out Tools </h1>
+
+<h2 align="center"> We are building tools to help female-identifying people
+engage with healthy online discussion avoiding misogyny </h2>
 
 <p align="center"> <img src="opt-out-demo.gif"> </p>
 
@@ -21,10 +22,13 @@ Skip to the bit you want to know about
 
 # Our Tools and Our Vision
 
-We currently have five tools we're working on to combat online misogyny. Here's a brief description of each tool:
+We currently have five tools we're working on to combat online misogyny. Here's
+a brief description of each tool:
 
-- **Browser Extension**: works like adBlocker but removes misogyny instead of adverts
-- **Website**: allows an individual to not only support and inform themselves but also submit a report of online misogyny
+- **Browser Extension**: works like adBlocker but removes misogyny instead of
+  adverts
+- **Website**: allows an individual to not only support and inform themselves
+  but also submit a report of online misogyny
 - **Activism**: saying boo to the misogyny gooses 
 - **Research**: understanding online misogyny and the problem domain
 - **Modeling**: modeling online misogyny

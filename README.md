@@ -2,8 +2,8 @@
 
 <p></p> <h1 align="center"> Opt Out Tools </h1>
 
-<h2 align="center"> We are building tools to help female-identifying people
-engage with healthy online discussion avoiding misogyny </h2>
+<h2 align="center"> We are building tools to remove online misogyny and help
+ female-identifying people engage with healthy online discussion </h2>
 
 <p align="center"> <img src="opt-out-demo.gif"> </p>
 
@@ -11,7 +11,7 @@ engage with healthy online discussion avoiding misogyny </h2>
 Skip to the bit you want to know about
 
 - [Our Tools and Our Vision](#Our-Tools-and-Our-Vision)
-- [Tools Roadmap](#Tools-Roadmap)
+- [Our Roadmap](#Our-Roadmap)
 - [The Repos and their Roles](#The-Repos-and-their-Roles)
 - [Use Our Tools](#Use-Our-Tools)
 - [Develop Our Tools](#Develop-Our-Tools)
@@ -39,9 +39,9 @@ social media feed, automatically alerting the moderators of the platform to the
 detected abuse. However we are consent and not censorship focused. We’re
 designing our browser extension to have a local instance of the model that you
 can supply feedback to. By giving the individual control over what they do and
-don’t see whilst upholding their safety, we hope to show female-identifying
-people that their voices can be heard online without the traumatizing
-consequences.
+don’t see whilst keeping their data private and upholding their safety, we
+hope to show female-identifying people that their voices can be heard online
+without the traumatizing consequences.
 
 ### Our Website 
 Our website aims to support female-identifying getting their voices back and
@@ -79,44 +79,36 @@ Our tech is here to solve real-world problems. It's vital to us that we compile
 and understand the latest research around online misogyny to inform our
 technical decisions.
 
-Whilst Opt Out's is long-term goal to be able to protect all female-identifying
-people one day, we are committed to supporting those who face the most misogyny
-online. We have found through reviewing academic studies and existing polls
-that typically, there are a few factors which determine how much abuse a
-female-identifying person will be subject to online. Firstly, the more publicly
-visible and outspoken a female-identifying person is, the more likely it is
-that she will receive online misogyny. We see politicians, academics,
-journalists (particularly those who write about stereotypically masculine areas
-like sports and gaming), activists and human rights defenders all receiving
-gendered abuse online[1]. Many female politicians across Europe are forced to
-contend with misogyny on a regular basis, sometimes resulting in these
-politicians stepping down from their positions. If a female-identifying people
-also happens to be black, trans, obese, any intersecting identity that is
-already discriminated against, the intensity and amount of abuse increases. We
-will focus on protecting these voices that disproportionately suffer from
-online misogyny first and increase inclusivity as we understand how we can
-model misogyny better.
+We're designing a research roadmap which will be used to compile research
+about many aspects of online life. Our initial focus shall be on online
+misogyny, how it is currently defined by various actors, the cause and
+effects and what online misogyny means to Opt Out Tools. 
+
+As our research grows we will widen our focus to look into ethical AI and
+content moderation online, what is currently being done in these spaces and
+how we can help or do it better.
+
  
 ### Our Modeling
-Language is incredibly nuanced. Our strategy to build tool that is designed to
-remove misogyny targets at a particular group of female-identifying people
-being harassed online. By initially targeting our protection to a specific
-group of people, we will ensure that our browser extension is effective from
-the word go. As we better understand online misogyny and how to model it we
-will improve our model to have an increased range of groups of people whom our
-tool is of use to.
+Language is incredibly nuanced. Our strategy is to develop a misogyny model 
+that removes misogyny targeted at a particular group of female-identifying 
+people being harassed online. By initially targeting our protection to a 
+specific group of people, we will improve the accuracy of our model, ensuring 
+that we remove what is truly misogynistic to this group and nothing else. As we 
+better understand online misogyny and how to model it we will improve our model 
+to have an increased range of groups whom our tool is of use to.
 
-Currently we are focusing on Twitter and using Natural Language Processing to
-understand the sentiment of a tweet. However this is a very simple model of how
-language works. Language has content, context, conversation and meaning
-embedded in the words. To capture this and make our machine learning models as
-precise as possible, we will eventually include network analysis, computational
-linguistics and other techniques, so that we are as sure as we can be that the
-comment is misogynistic.
+Currently we are focusing on Twitter and using Natural Language Processing to 
+understand the sentiment of a tweet. However this is a very simple model of how 
+language works. Language has content, context, is part of a conversation and 
+has meaning embedded in the words. To capture this and make our machine 
+learning models as precise as possible, we will eventually include network 
+analysis, computational linguistics and other techniques, so that we are as 
+sure as we can be that the comment is misogynistic.
 
 Also it is important to state here our commitment to understanding the biases
 and implications of the modeling that we are doing. We will also be looking
-into fairness metrics, dialect identification and model bias, to understand and
+into fairness metrics, dialect identification and model bias to understand and
 communicate the limitations of our work. We understand that misogyny sounds
 different in different dialects or social groups, and our model should
 understand that to avoid potential biases against any particular group of
@@ -229,7 +221,7 @@ requests on github.
 <p align="center"> * * * </p>
 
 
-## Tools Roadmap 
+## Our Roadmap 
 
 <p align="center"> <img src="opt_out_product_roadmap.png"> </p>
 
@@ -243,7 +235,7 @@ An overview of the repositories we have an what they are there for
   browser extension
 - [website](https://github.com/opt-out-tools/website): the front-end for the
   website
-- [public_app](https://github.com/opt-out-tools/public_api): the joint back-end
+- [public_api](https://github.com/opt-out-tools/public_api): the joint back-end
   for the website and browser extension
 - [theory-of-online-misogyny](https://github.com/opt-out-tools/theory-of-online-misogyny):
   qualitative research into online misogyny
@@ -331,7 +323,6 @@ the comment that is also blocked.
 
 Tech stack:
 - Javascript
-- Tensorflow
 
 For further details on developing it [click
 here](https://github.com/opt-out-tools/opt-out)

@@ -11,7 +11,7 @@
 Skip to the bit you want to know about
 
 - [Our Tools and Our Vision](#Our-Tools-and-Our-Vision)
-- [Our Roadmap](#Our-Roadmap)
+- [Our Strategy and Roadmap](#Our-Strategy-and-Roadmap)
 - [The Repos and their Roles](#The-Repos-and-their-Roles)
 - [Use Our Tools](#Use-Our-Tools)
 - [Develop Our Tools](#Develop-Our-Tools)
@@ -153,70 +153,16 @@ We have a misogyny dataset and model, but we need to know how it's doing. We're
 currently in the process of writing error analysis scripts to do just that.
 We're also looking at more complex approaches such as deep learning models.
 
-## Our Short-Term Vision
+## Our Vision
+At Opt Out, we’re building tools to help all female-identifying people with 
+something to say, trust that they can take part in healthy online discussion 
+safely. We want social media platforms to be a **respectful** place where any 
+can comment without fear of viscous retaliation, **inclusive** so all voices 
+can flourish and **safe** so no person has to worry about what happens after 
+they switch off their laptop. We want the social networks to be better for all. 
+We want to achieve this by building tools and an organisation that with these 
+values and consent, privacy and transparency at its core.
 
-### Browser Extension
-The browser extension model needs to be improved. For that we need to know what
-it's labeling wrong. We are going to find a select number of users and release
-it to them with specific functionality, specifically a _Isn't_ and _Is_
-misogynistic buttons. These buttons will send the tweets to our servers and
-store the incorrectly labelled comments.
-
-Alongside getting our minimum viable product gently out into the wild, we will
-work on fixing some bugs, modeling online misogyny and UX design.
-
-### Website
-Work will be mostly focusing on content, SEO and UX/UI design, trying to make
-our website as accessible, feminist and appealing as possible.
-
-### Activism
-We shall begin to compile content and look at social media campaigning
-strategies.
-
-Our workshops, particularly Consequence Scanning, will be developed ready for a
-large conference at the end of the year.
-
-### Research
-Once our research roadmap has been devised and the work carried out we will
-then look towards current policy at various levels around content moderation.
-We will also focus on understanding the experiences of different
-female-identifying people with different intersecting identities.
-
-### Modeling
-We shall look to relabel two new datasets, one with a focus on labeling
-explicit misogyny and the other only labeling misogyny received by a specific
-group online. We shall then begin modeling with these new datasets.
-
-Work around different aspects of online conversation shall be such as network
-analysis and computational linguistics study.
-
-We shall also look into transfer learning here. We want the users to be able to
-easily tune the model according to their own preferences. Ideally, the model
-would tune to users' preferences according to what they mark as mislabeled.
-
-## Our Long-Term Vision
-
-### Browser Extension
-In the not too distance future we will begin implementing the local instance of
-the model (heavily related to the transfer learning efforts) and also the
-automatic reporting functionality.
-
-### Website
-Once the website looks great and has all the content we need we shall begin to
-develop the virtual harassmap.
-
-### Activism
-
-### Research
-
-### Modeling
-By now we should have robust work around modeling misogyny. We shall begin to
-look multi-platform and multi-lingual.
-
-
-Our long-term vision is to be a tool that works in multiple online spaces such
-as internal communications chat-rooms for companies such as slack or even PR
-requests on github.
 
 <p align="center"> * * * </p>
 
@@ -224,6 +170,19 @@ requests on github.
 ## Our Roadmap 
 
 <p align="center"> <img src="opt_out_product_roadmap.png"> </p>
+
+For further details of the next steps for each of the tools and other work
+please see the Roadmaps. *Please note, the Roadmaps will be more up to date
+ than the image, so **do** look at the links below*
+
+- [Browser Extension](https://github.com/orgs/opt-out-tools/projects/38)
+- [Website](https://github.com/orgs/opt-out-tools/projects/40)
+- [Activism](https://github.com/orgs/opt-out-tools/projects/37)
+- [Research](https://github.com/orgs/opt-out-tools/projects/42)
+- [Modeling](https://github.com/orgs/opt-out-tools/projects/41)
+- [Design](https://github.com/orgs/opt-out-tools/projects/44)
+- [User Research](https://github.com/orgs/opt-out-tools/projects/45)
+- [Brand/Marketing](https://github.com/orgs/opt-out-tools/projects/43)
 
 <p align="center"> * * * </p>
 
@@ -408,9 +367,9 @@ take you to our [Open Collective](https://opencollective.com/opt-out) page.
 <p align="center"> * * * </p>
 
 # Our Mission
-We’re a mixed team , including social sciences, UX and lots of data nerds.
+We’re a mixed team, including social sciences, UX and lots of data nerds.
 We’re all working voluntarily in our spare time to make the internet accessible
-for all. What’s most important about us that we’re a group of people that
+for all. What’s most important about us is that we’re a group of people that
 **wont let hate win**.
 
 We want to champion female-identifying people back into the online worlds
@@ -426,4 +385,7 @@ desperately needs to hear.
 
 <p align="center"> <img src="built-with-love.png"> </p>
 
-[1] https://www.theguardian.com/technology/2016/apr/12/the-dark-side-of-guardian-comments
+- [1] https://www.theguardian.com/technology/2016/apr/12/the-dark-side-of
+-guardian-comments
+- [2] https://decoders.amnesty.org/projects/troll-patrol/findings
+- [3] https://www.buzzfeednews.com/article/zahrahirji/greta-thunberg-climate-teen-activist-harassment

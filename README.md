@@ -11,7 +11,7 @@
 Skip to the bit you want to know about
 
 - [Our Tools and Our Vision](#Our-Tools-and-Our-Vision)
-- [Our Strategy and Roadmap](#Our-Strategy-and-Roadmap)
+- [Our Strategy and Roadmap](#Our-Roadmap)
 - [The Repos and their Roles](#The-Repos-and-their-Roles)
 - [Use Our Tools](#Use-Our-Tools)
 - [Develop Our Tools](#Develop-Our-Tools)

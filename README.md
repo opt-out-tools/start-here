@@ -11,7 +11,7 @@
 Skip to the bit you want to know about
 
 - [Our Tools and Our Vision](#Our-Tools-and-Our-Vision)
-- [Our Strategy and Roadmap](#Our-Roadmap)
+- [Our Roadmap](#Our-Roadmap)
 - [The Repos and their Roles](#The-Repos-and-their-Roles)
 - [Use Our Tools](#Use-Our-Tools)
 - [Develop Our Tools](#Develop-Our-Tools)
@@ -27,11 +27,10 @@ a brief description of each tool:
 
 - **Browser Extension**: works like adBlocker but removes misogyny instead of
   adverts
-- **Website**: allows an individual to not only support and inform themselves
-  but also submit a report of online misogyny
+- **Website**: allows an individual to support and inform themselves
 - **Activism**: saying boo to the misogyny gooses 
 - **Research**: understanding online misogyny and the problem domain
-- **Modeling**: modeling online misogyny
+- **Modeling**: modeling online misogyny with data science
 
 ### Our Browser Extension
 Our browser extension is designed to remove misogyny from an individual's
@@ -44,20 +43,22 @@ hope to show female-identifying people that their voices can be heard online
 without the traumatizing consequences.
 
 ### Our Website 
-Our website aims to support female-identifying getting their voices back and
-sustain the movement. Inspired by [HarassMap](https://harassmap.org/ar), an
-Egyptian based NGO that allows people to submit reports of physical harassment
-which are displayed online on a map, our website will allow an individual to
-anonymously submit details of their harassment. This data will be stored,
-studied and feed the models that our other tools use, for example the browser
-extension. Our website will transparently show details of the usage statistics
-of the tools and show female-identifying clearly how their participation by
-submitting their reports is helping to fuel the movement and show our "antidote
-to silicon valley KPIs”. Our long-term goal is to display a “virtual” harass
-map on our website, showing which communities on your selected social media
-platform are misogynistic or sexually aggressive or just downright abusive,
-enabling female-identifying to navigate the murky waters of online society as
-best they can.
+Our website aims to support female-identifying getting their voices back
+and sustain the movement. Currently the website is only informative about
+Opt Out Tools.  However, inspired by [HarassMap](https://harassmap.org/ar),
+an Egyptian based NGO that allows people to submit reports of physical
+ harassment which are displayed online on a map, our website will allow an
+individual to anonymously submit details of their harassment. This data
+will be stored, studied and feed the models that our other tools use, for
+example the browser extension. Our website will transparently show details
+of the usage statistics of the tools and show female-identifying clearly
+how their participation by submitting their reports is helping to fuel the
+movement and show our "antidote to silicon valley KPIs”. Our long-term
+goal is to display a “virtual” harass map on our website, showing which
+communities on your selected social media platform are misogynistic or
+sexually aggressive or just downright abusive, enabling female-identifying
+to navigate the murky waters of online society as best they can.
+
 
 ### Our Activism
 We’re holding workshops that give female-identifying people a chance to meet
@@ -154,14 +155,15 @@ currently in the process of writing error analysis scripts to do just that.
 We're also looking at more complex approaches such as deep learning models.
 
 ## Our Vision
-At Opt Out, we’re building tools to help all female-identifying people with 
-something to say, trust that they can take part in healthy online discussion 
-safely. We want social media platforms to be a **respectful** place where any 
-can comment without fear of viscous retaliation, **inclusive** so all voices 
-can flourish and **safe** so no person has to worry about what happens after 
-they switch off their laptop. We want the social networks to be better for all. 
-We want to achieve this by building tools and an organisation that with these 
-values and consent, privacy and transparency at its core.
+At Opt Out Tools, we’re building tools to help all female-identifying
+people with something to say, trust that they can take part in healthy online
+discussion safely. We want social media platforms to be a **respectful**
+place where any can comment without fear of viscous retaliation, **inclusive**
+so all voices can flourish and **safe** so no person has to worry about what
+happens after they switch off their laptop. We want the social networks to be
+better for all.  We want to achieve this by building tools and an organisation
+that with these values and consent, privacy and transparency at its core.
+
 
 
 <p align="center"> * * * </p>
@@ -349,20 +351,20 @@ we'll rectify the matter immediately.
 # Help Our Vision
 
 ## Contributing
-Opt Out is an open source project under active development. Currently, machine
-learning models are being evaluated for their ability to classify misogynistic
-text. If you would like to contribute to the project, please see
-[Contributing](https://github.com/malteserteresa/opt-out/blob/master/contributing.md)
+Opt Out Tools is an open source project under active development. Currently, 
+machine learning models are being evaluated for their ability to classify
+ misogynistic text. If you would like to contribute to the project, please see
+the [CONTRIBUTING.md](https://github.com/opt-out-tools/start-here/blob/master/CONTRIBUTING.md)
 first, and then check out the repos.
 
-A 5 second contribution can be to :star: the [opt out
+A 5 second contribution can be to :star: the [opt-out
 repo](https://github.com/opt-out-tools/opt-out), the more stars we get the more
 likely we are to get funding :smile:
 
 ## Funding
 If you would like to fund the project or make a donation, please email [Opt
-Out](mailto:opt-out-tool@gmail.com) or hit the sponsor button above, which will
-take you to our [Open Collective](https://opencollective.com/opt-out) page.
+Out Tools](mailto:opt-out-tool@gmail.com) or hit the sponsor button above
+, which will take you to our [Open Collective](https://opencollective.com/opt-out) page.
 
 <p align="center"> * * * </p>
 

@@ -355,7 +355,7 @@ Opt Out Tools is an open source project under active development. Currently,
 machine learning models are being evaluated for their ability to classify
  misogynistic text. If you would like to contribute to the project, please see
 the [CONTRIBUTING.md](https://github.com/opt-out-tools/start-here/blob/master/CONTRIBUTING.md)
-first, and then check out the repos.
+first, and then check out the CONTRIBUTING.md for the repo you want to work on.
 
 A 5 second contribution can be to :star: the [opt-out
 repo](https://github.com/opt-out-tools/opt-out), the more stars we get the more

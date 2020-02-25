@@ -14,6 +14,7 @@ Quick links:
 
 
 ## How much time do you have?
+
 ### Less 10 minutes
  - Talk to a friend about online misogyny and what Opt Out Tools are trying to 
 achieve
@@ -106,36 +107,36 @@ feature requests or pull requests.
 It is recommended to check that your issue complies with the following rules 
 before submitting:
 
-    Verify that your issue is not being currently addressed by other issues or 
+- Verify that your issue is not being currently addressed by other issues or 
 pull requests.
-    
-    If you are submitting a bug report, we strongly encourage you to follow 
+
+- If you are submitting a bug report, we strongly encourage you to follow 
 the guidelines in How to make a good Bug Report.
 
 ### How to write a good Bug Report
 When you submit an issue to Github, please do your best to follow these 
 guidelines! This will make it a lot easier to provide you with good feedback:
 
-    The ideal bug report contains a short reproducible code snippet, this way 
+- The ideal bug report contains a short reproducible code snippet, this way 
 anyone can try to reproduce the bug easily (see this for more details). If 
 your snippet is longer than around 50 lines, please link to a gist or a github 
 repo.
 
-    If not feasible to include a reproducible snippet, please be specific 
+- If not feasible to include a reproducible snippet, please be specific 
 about what models, data and functions that are involved.
 
-    If an exception is raised, please provide the full traceback.
+- If an exception is raised, please provide the full traceback.
 
-    Please include your operating system type and version number, as well as 
+- Please include your operating system type and version number, as well as 
 your laguage (python, javacript) version and other important packages such as 
 scikit-learn, numpy, and scipy.
 
 ### How to write a good Feature Request
 When submitting a feature request, please try and:
-    
-    As clear as possible
-    
-    Contain relevant documentation wireframes etc. 
+
+- Be as clear as possible
+
+- Include relevant documentation, wireframes, etc. 
 
 ## Feature Implementation - Contributing Code
 Feature requests and bug fixes become a feature implementation issue when 
@@ -150,14 +151,14 @@ repo, then begin by forking it on GitHub, then submit a “pull request”
 The first few steps are generic to all Opt Out Tools repos and involves 
 setting up your git repository:
 
-    Create an account on GitHub if you do not already have one.
+- Create an account on GitHub if you do not already have one.
 
-    Fork the project repo: click on the ‘Fork’ button near the top of the 
+- Fork the project repo: click on the ‘Fork’ button near the top of the 
 page. This creates a copy of the code under your account on the GitHub user 
 account. For more details on how to fork a repository see 
 https://help.github.com/en/github/getting-started-with-github/fork-a-repo
 
-    Clone your fork of the repo from your GitHub account to your local disk
+- Clone your fork of the repo from your GitHub account to your local disk
 
 Once these steps are complete please see the individual README.md for specific 
 installation details.
@@ -189,9 +190,9 @@ documentation renders properly
 
 Follow the Coding guidelines.
 
-    When applicable, use the validation tools and scripts.
+- When applicable, use the validation tools and scripts.
 
-    Often pull requests resolve one or more other issues (or pull requests). 
+- Often pull requests resolve one or more other issues (or pull requests). 
 If merging your pull request means that some other issues/PRs should be 
 closed, you should use keywords to create link to them (e.g., Fixes #1234; 
 multiple issues/PRs are allowed as long as each one is preceded by a keyword). 
@@ -199,7 +200,7 @@ Upon merging, those issues/PRs will automatically be closed by GitHub. If your
 pull request is simply related to some other issues/PRs, create a link to them 
 without using the keywords (e.g., See also #1234).
 
-    New features often need to be illustrated with narrative documentation in 
+- New features often need to be illustrated with narrative documentation in 
 the user guide, with small code snipets. If relevant, please also add 
 references in the literature, with PDF links when possible.
 

@@ -43,58 +43,17 @@ If you have no tests, your code won't be merged. We're aiming for 100% test
 coverage.
 
 ## Project Management
-Opt Out Tools is a multifaceted organisation and because of this it has both 
-containing code and non code containing repos. We use the Github projects 
-board to organise our multifaceted work. We have different projects that are 
-for specific pieces of work as well as Roadmaps that give people an overview. 
-These projects will contain all the work related to that piece of work, it can 
-thus contain work that spans multiple repos.
-
-We use Github issues to create, discuss or carry out work. Each issue can take 
-one of three forms, a either a bug, a feature request or feature 
-implementation (task). 
-
-- Bug: a problem with the code that needs fixing
-- Feature request: an idea for new features
-- Feature implementation: concrete steps to be completed to add the 
-feature/fix the bug
-
-Bug and feature requests become feature implementations when someone has a 
-brainwave of how to complete the task. Thus a feature implementation issue 
-will contain clear instructions of how to complete task.
-
-Each issue should be labeled with a minimum of two labels, one to indicate 
-priority and the second to indicate size of task. It should also belong to a 
-milestone. We have four milestones over the next months, which look like this:
-
-Milestone name and description:
-
-- 0.1: the minimum viable product (MVP), what is the minimum functionality our 
-tool/s can have to be ready
-- 0.2: what is then expected by the end user for the tool/s to have
-- 0.3: what features would be good to have in the tool/s
-- 0.4: the future of our tool/s
-
-Concrete details of what each milestone contains can be found in the tool's 
-roadmap. For example, to see what we want to achieve in terms of Activism by 
-the 0.1 milestone, see the [Activism 
-Roadmap](https://github.com/orgs/opt-out-tools/projects/37)
-
-To find out what tools we have, please see [Our Tools and Our 
-Vision](https://github.com/opt-out-tools/start-here#Our-Tools-and-Our-Vision). 
-An overview of tasks for each milestone can be found 
-[here](https://github.com/opt-out-tools/start-her#Tools-Roadmap).
-
-Each issue should belong to a step in the Roadmap which will then be sorted
-into a project.
-
+Here you will find a guide about how we project manage on github. This guide is intended to make it easier for you to understand the current status of OOT and where you can look for tasks to get involved with.
+We use Github issues to create, discuss or carry out tasks. Each issue can take one of three forms, a either a bug, a feature request or feature implementation (task).
+Bug: a problem with the code that needs fixing
+Feature request: an idea for new features
+Feature implementation: details and suggested steps to be completed to add the feature/fix the bug
+Bug and feature requests become feature implementations when someone has a brainwave of how to complete the task. Thus a feature implementation issue may contain clear instructions of how to complete task.
+Each issue should be labeled with a minimum of two labels, one to indicate priority and the second to indicate size of task. It should also belong to a milestone. Milestones are used to indicate the sprint it should be completed for. Our sprints are two months long. If an issue does not have a milestone then it should have a backlog label.
+We use the Github projects board to organise our tasks for each sprint. We also have projects with Roadmap in the title that have issues (tasks) that span longer than one sprint. These issues will have an epic label and will reference the sub issues that are required to complete it.
 Issues may have two kinds of squared bracket labels in the title:
-- [WIP]: indicate you are working on something to avoid duplicated work, 
-request broad review of functionality or API, or seek collaborators (use the 
-help wanted label).
-- [MRG]: the contribution is complete and should be subjected to a detailed 
-review
-
+[WIP]: indicate you are working on something to avoid duplicated work, request broad review of functionality or API, or seek collaborators (use the help wanted label).
+[MRG]: the contribution is complete and should be subjected to a detailed review. If the work is in this state, it should reference the feature request/bug it is fixing
 
 ## Feature Request/Bug Report
 We use GitHub issues to track all bugs and feature requests; feel free to open 

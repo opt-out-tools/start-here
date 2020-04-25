@@ -5,7 +5,7 @@ regardless of your skill level or of the amount of time you are able to contribu
 
 Quick links:
 
-- [Contributing money](#Contributing-money)
+- [Donating](#Donating)
 - [Contributing time](#Contributing-time)
   - [Less than 10 minutes](#Less-than-10-minutes)
   - [Less than 30 minutes](#Less-than-30-minutes)
@@ -18,7 +18,7 @@ Quick links:
     - [Campaign for us](#Campaign-for-us)
     - [Contribute legal advice](#Contribute-legal-advice)
 
-## Contributing money
+## Donating
 
 If you'd like to fund the project or make a donation, please head out to our [Open Collective](https://opencollective.com/opt-out-tools) page!
 

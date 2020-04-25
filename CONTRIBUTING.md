@@ -12,6 +12,8 @@ Quick links:
 
 ### Less than 10 minutes
 
+- Give a :star: to the [opt-out](https://github.com/opt-out-tools/opt-out)
+repository, the more stars we get the more likely we are to get funding :smile:
 - Talk to your friends and family about online misogyny!
 - Reach out to us on [Twitter](https://twitter.com/optoutools) to let us know what you think!
 

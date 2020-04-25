@@ -14,13 +14,13 @@ Quick links:
 
 - Give a :star: to the [opt-out](https://github.com/opt-out-tools/opt-out)
 repository, the more stars we get the more likely we are to get funding :smile:
-- Talk to your friends and family about online misogyny!
-- Reach out to us on [Twitter](https://twitter.com/optoutools) to let us know what you think!
 
 ### Less than 30 minutes
 
-Post about **Opt Out Tools** on social media with our Twitter handle @optoutools
-or our Instagram handle @optouttools !
+- Post about **Opt Out Tools** on social media using our Twitter handle `@optoutools`
+or our Instagram handle `@optouttools`!
+- Reach out to us on [Twitter](https://twitter.com/optoutools) to let us know what you think!
+- Talk to your friends and family about online misogyny!
 
 ### 1+ hour
 

@@ -88,4 +88,4 @@ please contact *TBD*.
 
 ## Contributing money
 
-If you'd like to fund the project or make a donation, please head out to our [Open Collective](https://opencollective.com/opt-out) page!
+If you'd like to fund the project or make a donation, please head out to our [Open Collective](https://opencollective.com/opt-out-tools) page!

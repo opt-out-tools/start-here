@@ -16,8 +16,8 @@ instructions to help you contribute to the project in any way you can.
 Quick links:
 
 - [Repository purpose](#Repository-purpose)
-- [Repository-structure](#Repository-structure)
-- [Repository-management](#Repository-management)
+- [Repository structure](#Repository-structure)
+- [Repository management](#Repository-management)
 - [Code of conduct](#Code-of-conduct)
 - [Disclaimer](#Disclaimer)
 

@@ -24,6 +24,13 @@ or our Instagram handle @optouttools !
 
 ### 1+ hour
 
+#### Contribute ideas
+
+You have a million ideas you'd like to share with us and don't know where to start?
+
+Reach out to us on [Twitter](https://twitter.com/optoutools) to get an invite to
+our Slack and give us a shout in the `#introduce-yourself` channel :smile:
+
 #### Contribute code
 
 Are you a backend, frontend or QA developer? We need your skills!
@@ -84,9 +91,11 @@ You like to write? We always need fresh content for our
 #### Campaign for us
 
 Are you a public speaker or working in the field of brand & marketing? The
-**OOT** Marketing team is always looking for help for our different campaigns. If
-you'd like to represent us at public events or help with our brand and marketing strategy,
-please contact *TBD*.
+**OOT** Marketing team is always looking for help for our different campaigns.
+
+If you'd like to represent us at public events or help with our brand and
+marketing strategy, reach out to us on [Twitter](https://twitter.com/optoutools)
+to get an invite to our Slack and give the `#marketing` channel a shout!
 
 ## Contributing money
 

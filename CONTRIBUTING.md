@@ -37,7 +37,7 @@ Are you a backend, frontend or QA developer? We need your skills!
   can do this.
 - **Backend development:**
   - If you'd like to help us with the architecture behind the **Opt Out** browser
-  extension, please head out to our
+  extension or our website, please head out to our
   [public_api](https://github.com/opt-out-tools/public_api) repository to know how
   you can do this.
   - If you'd like to help us improve our machine learning pipeline and model, please

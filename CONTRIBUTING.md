@@ -6,6 +6,16 @@ regardless of your skill level or of the amount of time you are able to contribu
 Quick links:
 
 - [Contributing time](#Contributing-time)
+  - [Less than 10 minutes](#Less-than-10-minutes)
+  - [Less than 30 minutes](#Less-than-30-minutes)
+  - [1+ hour](#1+-hour)
+    - [Contribute ideas](#Contribute-ideas)
+    - [Contribute code](#Contribute-code)
+    - [Contribute research](#Contribute-research)
+    - [Contribute design](#Contribute-design)
+    - [Contribute content](#Contribute-content)
+    - [Campaign for us](#Campaign-for-us)
+    - [Contribute legal advice](#Contribute-legal-advice)
 - [Contributing money](#Contributing-money)
 
 ## Contributing time
@@ -96,6 +106,14 @@ Are you a public speaker or working in the field of brand & marketing? The
 If you'd like to represent us at public events or help with our brand and
 marketing strategy, reach out to us on [Twitter](https://twitter.com/optoutools)
 to get an invite to our Slack and give the `#marketing` channel a shout!
+
+#### Contribute legal advice
+
+Are you a tech and [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
+consultant? We need your help!
+
+If you'd like to help us being GDPR-compliant, reach out to us on
+[Twitter](https://twitter.com/optoutools)!
 
 ## Contributing money
 

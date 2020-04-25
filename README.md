@@ -46,8 +46,8 @@ we'll rectify the matter immediately.
 Is anything broken?
 - [opt-out](https://github.com/opt-out-tools/opt-out):
   [![CircleCI](https://circleci.com/gh/opt-out-tools/opt-out.svg?style=svg)](https://circleci.com/gh/opt-out-tools/opt-out)
-- [study-online-misogyny](https://github.com/opt-out-tools/study-online-misogyny):
-  [![CircleCI](https://circleci.com/gh/opt-out-tools/study-online-misogyny.svg?style=svg)](https://circleci.com/gh/opt-out-tools/model-online-misogyny)
+- [model-online-misogyny](https://github.com/opt-out-tools/model-online-misogyny):
+  [![CircleCI](https://circleci.com/gh/opt-out-tools/model-online-misogyny.svg?style=svg)](https://circleci.com/gh/opt-out-tools/model-online-misogyny)
 
 ## The Opt Out Tools Architecture
 Here is a diagram depicting the technical architecture of Opt Out Tools.

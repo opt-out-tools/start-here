@@ -42,6 +42,9 @@ you can.
 
 ## Repository management
 
+This repository is managed by the entire **OOT** team. If you have any question,
+please reach out to us on [Twitter](https://twitter.com/optoutools)!
+
 ## Code of conduct
 
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/malteserteresa/opt-out/blob/master/CODE_OF_CONDUCT.md).

@@ -4,6 +4,13 @@ There are many challenges to distributed teams such as miscommunication and
 productivity. That's why at **OOT** we're trying a decentralized,
 self-management system for our teams called **holacracy**.
 
+Quick links:
+
+- [Welcome to holacracy!](#Welcome-to-holacracy!)
+  - [Teams](#Teams)
+  - [Members](#Members)
+- [OOT mottos](#OOT-mottos)
+
 ## Welcome to holacracy!
 
 A [holacracy](https://www.holacracy.org/) is a decentralized, self-management
@@ -39,7 +46,9 @@ patterns. Responsible for managing and maintaining the following repositories:
 and of OOT's visibility and crowdfunding campaigns. Responsible for managing
 blog post and campaigning issues in the following repositories:
   - [start-here](https://github.com/opt-out-tools/start-here)
-- **User Design & Research Team:** In charge of the design and user research for the **OOT** website and the **Opt Out** browser extension. Responsible for managing design and user research issues in the following repositories:
+- **User Design & Research Team:** In charge of the design and user research for the **OOT** website and the **Opt
+Out** browser extension. Responsible for managing design and user research
+issues in the following repositories:
   - [opt-out](https://github.com/opt-out-tools/opt-out)
   - [website](https://github.com/opt-out-tools/website)
   - [start-here](https://github.com/opt-out-tools/start-here)

@@ -42,7 +42,7 @@ you can.
 
 ## Repository management
 
-This repository is managed by the entire **OOT** community. If you have any question,
+This repository is managed by the **OOT** community. If you have any question,
 please reach out to us on [Twitter](https://twitter.com/optoutools)!
 
 ## Code of conduct

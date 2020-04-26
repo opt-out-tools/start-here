@@ -54,7 +54,8 @@ By participating in this project you agree to abide by its terms.
 
 Our intention is to **never ever** re-victimize anyone. However we deal with
 explicit content and sometimes we forget to sanitize a work or add a disclaimer
-that it may content explicit content. If this happens, please let us know and
-we'll rectify the matter immediately.
+that it may content explicit content. If this happens, please reach out to us on
+[Twitter](https://twitter.com/optoutools) and we'll rectify the matter
+immediately.
 
 <p align="center"> <img src="built-with-love.png"> </p>

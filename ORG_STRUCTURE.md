@@ -1,30 +1,33 @@
 # OOT structure
-There are many challenges to distributed teams such as miscommunication and
-productivity. That's at OOT we're trying a decentralized, self-management
-system for our teams and it's called a **holacracy**.
 
-## Welcome to Holacracy!
+There are many challenges to distributed teams such as miscommunication and
+productivity. That's why at **OOT** we're trying a decentralized,
+self-management system for our teams called **holacracy**.
+
+## Welcome to holacracy!
 
 A [holacracy](https://www.holacracy.org/) is a decentralized, self-management
 system for running purpose-driven organizations, with reduced hierarchy.
+
 Essentially it means that not all decisions go through one person, but that
-each member of a circle feels empowered to take control over their task and
-responsibilities within the circles domain. Let me explain...
+each member of a team feels empowered to take control over their task and
+responsibilities within the team domain.
 
 The essential elements are:
 
-### Circles
+### Teams
 
-Circles are like project, and each circle has assigned a clear purpose and
-accountabilities. Each circle has the authority to self-organize internally to
-best achieve its goals. Circles are connected by "Rep Links", which are people
-who attend meetings for both their circle and other circles needed to ensure
-their own alignment with the broader organization’s mission and strategy.
+Teams are like self-sustained projects that have a clear purpose and
+accountabilities. Each team has the authority to self-organize to
+best achieve their goals. Teams are connected by "Rep Links", which are people who
+attend meetings for both their team to ensure their own
+alignment with the broader organization mission and strategy.
 
-A circle has four core roles:
-    • Lead link – The lead link contains the circle’s purpose and is responsible for the circle’s successes and failures throughout its existence.
-    • Secretary –  The secretary schedules meetings and makes note of the meeting’s outlook. Important for inter circle communication
-    • Rep Link – The rep link is an elected role used to represent the interests of the circle in other circles
+A team has four core roles:
+
+- Lead link – The lead link contains the circle’s purpose and is responsible for the circle’s successes and failures throughout its existence.
+- Secretary –  The secretary schedules meetings and makes note of the meeting’s outlook. Important for inter circle communication
+- Rep Link – The rep link is an elected role used to represent the interests of the circle in other circles
 
 ### Members
 

@@ -2,7 +2,7 @@
 
 ## Vision
 
-At Opt Out Tools, we’re building tools to help all female-identifying
+At **Opt Out Tools**, we’re building tools to help all female-identifying
 people with something to say, trust that they can take part in healthy online
 discussion safely. We want social media platforms to be a **respectful**
 place where any can comment without fear of viscous retaliation, **inclusive**

@@ -16,14 +16,14 @@ Quick links:
 A [holacracy](https://www.holacracy.org/) is a decentralized, self-management
 system for running purpose-driven organizations, with reduced hierarchy.
 
-Essentially it means that not all decisions regarding the organization go
-through one person, but that the organization is a community of teams and
+Essentially it means that not all decisions regarding the **OOT** organization go
+through one person, but that **OOT** is a community of teams and
 members that are empowered to take control over their task and responsibilities
 within their domain.
 
 ### Teams
 
-Teams are like self-sustained projects that have a clear purpose and
+At **OOT**, teams are self-sustained projects that have a clear purpose and
 responsibilities. Each team has the authority to self-organize to best achieve
 their goals.
 
@@ -43,7 +43,7 @@ repositories:
 patterns. Responsible for managing and maintaining the following repositories:
   - [theory-of-online-misogyny](https://github.com/opt-out-tools/theory-of-online-misogyny)
 - **Brand/Marketing Team:** In charge of managing **OOT**'s [Twitter](https://twitter.com/optoutools), [Instagram](https://www.instagram.com/optouttools/) and [Medium](https://medium.com/opt-out-tools) account
-and of OOT's visibility and crowdfunding campaigns. Responsible for managing
+and of **OOT**'s visibility and crowdfunding campaigns. Responsible for managing
 blog post and campaigning issues in the following repositories:
   - [start-here](https://github.com/opt-out-tools/start-here)
 - **User Design & Research Team:** In charge of the design and user research for the **OOT** website and the **Opt
@@ -55,16 +55,20 @@ issues in the following repositories:
 
 ### Members
 
-Members are you folks, the maintainers. The number of maintainers is not divided equally between the circles. One person can sit in multiple circles and one circle can (should) have multiple people
+Members of the **OOT** community are all empowered to contribute to the project how and where they want!
 
-Tasks
-A "task" is an issue on github. An issue (called feature implementation when you’re making one on GH) is an attempt to clearly define the scope of the task, responsibilities and accountabilities of the task.  It is composed of
-    • An objective and description of the task:
-    • Skills and tools/dependencies  needed
-    • Time estimate
-    • Suggested steps to complete the task
-Tasks are decided in a circle through its decision processes (that it decides) and should be updated regularly in order to achieve the circle’s purpose within the shortest time frame. These tasks should live in the circles board on github.
-The person that fulfills any given task is empowered to make decisions and execute assignments in the way that they think is best within the circles domain.
+They can choose between:
+
+- Being a Maintainer: A Maintainer is someone who contributes on a regular basis to the project. A
+maintainer can be part of one or several **OOT** team and takes responsibility
+for the team's [roadmap](./ROADMAP.md) and the issues they self-assign or get
+assigned.
+- Being a Contributor: A Contributor is someone who contributes occasionally to the project. A
+contributor can be part of one or several **OOT** teams but only takes
+responsibility for the completion of the issues they self-assign.
+
+Want to join one of the **OOT** community team as a Maintainer or Contributor?
+Read the [CONTRIBUTING.md](./CONTRIBUTING.md) file in this repository to know how you can help us!
 
 ## OOT mottos
 

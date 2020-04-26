@@ -1,13 +1,15 @@
+# OOT project management
+
 Here you will find a guide about how we project manage on github. This guide
 is intended to make it easier for you to find tasks to get involved with and
 how we manage work.
 
 We use Github issues to create, discuss or carry out tasks. Each issue
 can take one of three forms, a either a bug, a feature request or feature
-implementation (task). 
+implementation (task).
 
-- Bug: a problem with the code that needs fixing 
-- Feature request: an idea for new features 
+- Bug: a problem with the code that needs fixing
+- Feature request: an idea for new features
 - Feature implementation: details and suggested steps to be completed to add
  the feature/fix the bug
 
@@ -25,13 +27,13 @@ also have projects with Roadmap in the title that have issues (tasks) that
 span longer than one sprint. These issues will have an epic label and will
 reference the sub issues that are required to complete it.
 
-Issues may have two kinds of squared bracket labels in the title: 
+Issues may have two kinds of squared bracket labels in the title:
 - [WIP]: indicate you are working on something but not finished in order to
  avoid duplicated work, premature merges, or use this in the title with the
   help wanted label if you want help/collaboration with the issue.
 - [MRG]: the contribution is complete and should be subjected to a detailed
 review. If the work is in this state, it should reference the feature
-request/bug it is fixing 
+request/bug it is fixing
 
 Issues may also have this in the title:
 - RFC: this stands for request for comment and indicates the issue needs input
@@ -49,9 +51,9 @@ Workflow for normal sprint:
 
 Types of open meeting:
 
-- **Sprint planning** - in first week after a release, to get people to take 
+- **Sprint planning** - in first week after a release, to get people to take
     ownership for tasks for the next sprint, and see what needs more info for people to do it
-    
+
 - **Check In** - Like a stand up but biweekly. To make sure tasks assigned at
  sprint planning are moving smoothly
 
@@ -79,5 +81,5 @@ TBC
 How Feature Requirements are decided
 TBC
 
-How User Feedback/Research is incorporated 
+How User Feedback/Research is incorporated
 TBC

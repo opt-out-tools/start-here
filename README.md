@@ -46,8 +46,7 @@ we'll rectify the matter immediately.
 Is anything broken?
 - [opt-out](https://github.com/opt-out-tools/opt-out):
   [![CircleCI](https://circleci.com/gh/opt-out-tools/opt-out.svg?style=svg)](https://circleci.com/gh/opt-out-tools/opt-out)
-- [model-online-misogyny](https://github.com/opt-out-tools/model-online-misogyny):
-  [![CircleCI](https://circleci.com/gh/opt-out-tools/model-online-misogyny.svg?style=svg)](https://circleci.com/gh/opt-out-tools/model-online-misogyny)
+
 
 ## The Opt Out Tools Architecture
 Here is a diagram depicting the technical architecture of Opt Out Tools.
@@ -66,8 +65,7 @@ The browser extension and website share a common back-end called public_api.
 Documentation for these two APIs can be find in the
 [public_api](https://github.com/opt-out-tools/public_api) repo.
 
-It is important to note that we do not currently have an automated model
-deployment mechanism.
+It is important to note that 
 
 
 

@@ -1,4 +1,4 @@
-# Our tools and vision
+# OOT tools and vision
 
 ## Vision
 
@@ -10,8 +10,6 @@ so all voices can flourish and **safe** so no person has to worry about what
 happens after they switch off their laptop. We want the social networks to be
 better for all.  We want to achieve this by building tools and an organisation
 that with these values and consent, privacy and transparency at its core.
-
-<p align="center"> * * * </p>
 
 ## Tools
 

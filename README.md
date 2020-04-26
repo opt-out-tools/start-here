@@ -27,18 +27,18 @@ you can.
 
 ## Repository structure
 
-├── .github                       <- Folder containing templates to create different types of issues for the
-│                                    OOT repositories + documentation on our funding platforms.
-├── DEPRECATED                    <- Folder containing deprecated information about the OOT project.
-├── built-with-love.png           <- Image used in the README of this repository.     
-├── CONTRIBUTING.md               <- Information on how to contribute to the OOT project.                   
-├── opt_out_logo.png              <- Logo used in the README of this repository.                 
-├── opt-out-demo.gif              <- GIF used in the README of this repository.
-├── ORG_STRUCTURE.md              <- Information on how OOT is organized.
-├── PROJECT_MANAGEMENT.md         <- Information on how OOT works.
-├── README.md                     <- General information about this repository.
-├── ROADMAP.md                    <- Information on the OOT roadmap.
-└── VISION_&TOOLS.md              <- Information on the OOT project.
+  ├── .github                       <- Folder containing templates to create different types of issues for the
+  │                                    OOT repositories + documentation on our funding platforms.
+  ├── DEPRECATED                    <- Folder containing deprecated information about the OOT project.
+  ├── built-with-love.png           <- Image used in the README of this repository.     
+  ├── CONTRIBUTING.md               <- Information on how to contribute to the OOT project.                   
+  ├── opt_out_logo.png              <- Logo used in the README of this repository.                 
+  ├── opt-out-demo.gif              <- GIF used in the README of this repository.
+  ├── ORG_STRUCTURE.md              <- Information on how OOT is organized.
+  ├── PROJECT_MANAGEMENT.md         <- Information on how OOT works.
+  ├── README.md                     <- General information about this repository.
+  ├── ROADMAP.md                    <- Information on the OOT roadmap.
+  └── VISION_&TOOLS.md              <- Information on the OOT project.
 
 ## Repository management
 

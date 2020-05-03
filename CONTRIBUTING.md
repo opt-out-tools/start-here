@@ -89,8 +89,8 @@ she will let you know how you can do this.
 Are you a UI/UX designer? We need your skills!
 
 If you'd like to help us with the design of the **Opt Out** browser extension or
-our website, please reach out to Anna (`annadunn6374`) on Github; she will let
-you know how you can do this.
+our website, reach out to us on [Twitter](https://twitter.com/optoutools) to get
+an invite to our Slack and give us a shout in the `#introduce-yourself` channel!
 
 #### Contribute content
 
